@@ -9,25 +9,6 @@ Using Gmail with screen readers
 Fwd:
 Inbox
 
-Angela Chidiogo <angelamitchelle7@gmail.com>
-Attachments
-15:46 (3 minutes ago)
-to me
-
-
-Angela 
-
-
----------- Forwarded message ---------
-From: Angela Chidiogo <angelamitchelle7@gmail.com>
-Date: Fri, 30 Sept 2022 at 09:18
-Subject:
-To: <Njoku.t.Gabriel@gmail.com>, arinzeani256@gmail.com <arinzeani256@gmail.com>
-
-
-
-
-
 Attachments area
 #!/bin/bash
 #Apache server script
